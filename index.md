@@ -43,4 +43,5 @@ Three-Point Bend Test on I-Beam Prototype
   - Manufactured working I-beam and square beam composite bridge elements.
   - Both composite elements and preceding prototypes satisfied and exceeded the SAMPE specified requirements for the competition.
   - Team finished second place at Purdue Spring 2025 Undergraduate Research Conference.
-  - ![](images/)
+  - ![project poster](images/2025-Spring-Research-Expo-Poster.jpg)
+    Poster Used by Research Team During Undergraduate Research Conference
