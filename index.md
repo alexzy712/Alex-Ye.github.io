@@ -14,7 +14,7 @@
   I was tasked with the design of the CATIA models for each beam type. The CAD models served as the basis for the flexural analysis, enabling iterative refinement of geometry prior to composite fabrication.
 
 ## CAD Design
-![CATIA Sketch Used to Design the I-beam CAD Model]
+![]()
 
 ## Results -
   - Manufactured working I-beam and square beam composite bridge elements.
